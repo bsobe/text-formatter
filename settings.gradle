@@ -1,0 +1,2 @@
+include ':app', ':formatter'
+rootProject.name='TextFormatter'
